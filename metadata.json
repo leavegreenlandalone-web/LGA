@@ -1,0 +1,15 @@
+{
+  "name": "Greenland Is Not For Sale",
+  "symbol": "GINFS",
+  "description": "No roadmap. No utility. Just a message. Created by people from Greenland. For Greenland. Nothing promised. Leave Greenland Alone.",
+  "image": "https://raw.githubusercontent.com/leavegreenlandalone-web/LGA/refs/heads/main/LGA.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/leavegreenlandalone-web/LGA/refs/heads/main/LGA.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
